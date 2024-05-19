@@ -15,6 +15,3 @@ def number_square(lista_numeros: int):
     int_test= int(test)
     #devolvemos el valor
     return int_test
-
-
-print(number_square(2425))
